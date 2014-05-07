@@ -1,0 +1,47 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 290709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+06-Jul-2009
+29-Jan-2009
+16-Nov-2007
+31-Jul-2006
+18-Aug-2005
+08-Jul-2005
+13-Dec-2004
+11-Oct-2004
+15-Jul-2004
+26-May-2004
+19-Mar-2004
+16-Feb-2004
+21-May-2003
+11-Feb-2003
+31-Oct-2002
+27-Aug-2001
+11-May-2001
+
+
+Replaced Libraries (1)
+~~~~~~~~~~~~~~~~~~~~~~~
+Small Outline Diode - 2 Flat Leads.PcbLib
+Added reverse pinned versions.
+Large mulitlayer pad/hole unplated.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/community/libraries/).
+
+
+Library News
+~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/community/libraries/

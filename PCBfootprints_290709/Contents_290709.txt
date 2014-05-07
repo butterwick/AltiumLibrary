@@ -1,0 +1,284 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 290709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Axial Lead Diode.PcbLib
+BGA_Rect.PcbLib
+BGA_Sq_100P.PcbLib
+BGA_Sq_127P.PcbLib
+BGA_Sq_150P.PcbLib
+BGA_Sq_40P.PcbLib
+BGA_Sq_50P.PcbLib
+BGA_Sq_65P.PcbLib
+BGA_Sq_75P.PcbLib
+BGA_Sq_80P.PcbLib
+Bridge Rectifier.PcbLib
+Bumpered QFP - Centre Index.PcbLib
+Bumpered QFP - Corner Index.PcbLib
+CAN - Circle pin arrangement.PcbLib
+CAN - Rectangle pin arrangement.PcbLib
+Capacitor Electrolytic Mount Ring.PcbLib
+Capacitor Electrolytic Snap-In.PcbLib
+Capacitor Non-Polar Axial.PcbLib
+Capacitor Non-Polar Dipped Radial.PcbLib
+Capacitor Non-Polar Disc.PcbLib
+Capacitor Non-Polar Tubular.PcbLib
+Capacitor Polar Axial.PcbLib
+Capacitor Polar Radial Cylinder.PcbLib
+Capacitor Tantalum Leadless.PcbLib
+Capacitor Tantalum Radial Bead.PcbLib
+Capacitor Tantalum Radial Oval.PcbLib
+Capacitor Tantalum Radial Rectangle.PcbLib
+Ceramic DFP.PcbLib
+CGA_Sq_100P.PcbLib
+CGA_Sq_127P.PcbLib
+Chip Diode - 2 Contacts.PcbLib
+Chip Resistor Array - Panasonic.PcbLib
+Chip_Capacitor_L.PcbLib
+Chip_Capacitor_M.PcbLib
+Chip_Capacitor_N.PcbLib
+Chip_Inductor_L.PcbLib
+Chip_Inductor_M.PcbLib
+Chip_Inductor_N.PcbLib
+Chip_Resistor_L.PcbLib
+Chip_Resistor_M.PcbLib
+Chip_Resistor_N.PcbLib
+Con 050 DSubminiature.PcbLib
+Con Audio Video.PcbLib
+Con Audio.PcbLib
+Con Board-to-Board.PcbLib
+Con Card.PcbLib
+Con CardEdge.PcbLib
+Con CompactPCI.PcbLib
+Con DIN 41612.PcbLib
+Con DIN Circular.PcbLib
+Con Docking Station.PcbLib
+Con FPC-FFC.PcbLib
+Con High-Speed PCB.PcbLib
+Con IDC.PcbLib
+Con IEEE1394.PcbLib
+Con Low Power.PcbLib
+Con Mains Power.PcbLib
+Con Mod Jack PCB.PcbLib
+Con Rect Stag PCB.PcbLib
+Con RF Coaxial.PcbLib
+Con USB.PcbLib
+CQFP_Sq_127P_Side_L.PcbLib
+CQFP_Sq_127P_Side_M.PcbLib
+CQFP_Sq_127P_Side_N.PcbLib
+CQFP_Sq_50P_Side_L.PcbLib
+CQFP_Sq_50P_Side_M.PcbLib
+CQFP_Sq_50P_Side_N.PcbLib
+CQFP_Sq_63P_Ctr_L.PcbLib
+CQFP_Sq_63P_Ctr_M.PcbLib
+CQFP_Sq_63P_Ctr_N.PcbLib
+CQFP_Sq_63P_Side_L.PcbLib
+CQFP_Sq_63P_Side_M.PcbLib
+CQFP_Sq_63P_Side_N.PcbLib
+CQFP_Sq_65P_Side_L.PcbLib
+CQFP_Sq_65P_Side_M.PcbLib
+CQFP_Sq_65P_Side_N.PcbLib
+CQFP_Sq_80P_Side_L.PcbLib
+CQFP_Sq_80P_Side_M.PcbLib
+CQFP_Sq_80P_Side_N.PcbLib
+Crystal Oscillator.PcbLib
+Cylinder with Flat Index.PcbLib
+Diamond Base CAN - 2 Leads.PcbLib
+Diamond Base CAN - 3+ Leads.PcbLib
+DIP - LED Display.PcbLib
+DIP - Peg Leads.PcbLib
+DIP, Modified - Trimmed Leads.PcbLib
+DIP, Shrink - Stub Leads.PcbLib
+DPAK_L.PcbLib
+DPAK_M.PcbLib
+DPAK_N.PcbLib
+Dual-In-Line Package.PcbLib
+Flange Mount with Rectangular Base.PcbLib
+Horizontal, Flange Mount with Tab.PcbLib
+LCC_Sq_L.PcbLib
+LCC_Sq_M.PcbLib
+LCC_Sq_N.PcbLib
+Leaded Chip Carrier - Rectangle.PcbLib
+Leadless Chip Carrier - Rectangle.PcbLib
+Leadless Chip Carrier - Square.PcbLib
+Low Profile Module (LPM).PcbLib
+MELF - Diode.PcbLib
+MELF - Resistor.PcbLib
+MicroSMD_40P_V.PcbLib
+MicroSMD_50P_V.PcbLib
+Miscellaneous Connector PCB.PcbLib
+Miscellaneous Devices PCB.PcbLib
+Miscellaneous.PcbLib
+Pin Grid Array Package (PGA).PcbLib
+PLCC_Sq_127P_Ctr_L.PcbLib
+PLCC_Sq_127P_Ctr_M.PcbLib
+PLCC_Sq_127P_Ctr_N.PcbLib
+QFN_Rect_50P_Side_V.PcbLib
+QFN_Sq_100P_Side_L.PcbLib
+QFN_Sq_100P_Side_M.PcbLib
+QFN_Sq_100P_Side_N.PcbLib
+QFN_Sq_40P_Side_L.PcbLib
+QFN_Sq_40P_Side_M.PcbLib
+QFN_Sq_40P_Side_N.PcbLib
+QFN_Sq_40P_Side_V.PcbLib
+QFN_Sq_50P_Side_L.PcbLib
+QFN_Sq_50P_Side_M.PcbLib
+QFN_Sq_50P_Side_N.PcbLib
+QFN_Sq_50P_Side_V.PcbLib
+QFN_Sq_65P_Side_L.PcbLib
+QFN_Sq_65P_Side_M.PcbLib
+QFN_Sq_65P_Side_N.PcbLib
+QFN_Sq_65P_Side_V.PcbLib
+QFN_Sq_80P_Side_L.PcbLib
+QFN_Sq_80P_Side_M.PcbLib
+QFN_Sq_80P_Side_N.PcbLib
+QFP_Rect_100P_Side_L.PcbLib
+QFP_Rect_100P_Side_M.PcbLib
+QFP_Rect_100P_Side_N.PcbLib
+QFP_Rect_65P_Side_L.PcbLib
+QFP_Rect_65P_Side_M.PcbLib
+QFP_Rect_65P_Side_N.PcbLib
+QFP_Rect_80P_Side_L.PcbLib
+QFP_Rect_80P_Side_M.PcbLib
+QFP_Rect_80P_Side_N.PcbLib
+QFP_Shrink_Rect_30P_Side_L.PcbLib
+QFP_Shrink_Rect_30P_Side_M.PcbLib
+QFP_Shrink_Rect_30P_Side_N.PcbLib
+QFP_Shrink_Rect_40P_Side_L.PcbLib
+QFP_Shrink_Rect_40P_Side_M.PcbLib
+QFP_Shrink_Rect_40P_Side_N.PcbLib
+QFP_Shrink_Rect_50P_Side_L.PcbLib
+QFP_Shrink_Rect_50P_Side_M.PcbLib
+QFP_Shrink_Rect_50P_Side_N.PcbLib
+QFP_Shrink_Sq_40P_Side_L.PcbLib
+QFP_Shrink_Sq_40P_Side_M.PcbLib
+QFP_Shrink_Sq_40P_Side_N.PcbLib
+QFP_Shrink_Sq_50P_Side_L.PcbLib
+QFP_Shrink_Sq_50P_Side_M.PcbLib
+QFP_Shrink_Sq_50P_Side_N.PcbLib
+QFP_Sq_100P_Side_L.PcbLib
+QFP_Sq_100P_Side_M.PcbLib
+QFP_Sq_100P_Side_N.PcbLib
+QFP_Sq_127P_Side_L.PcbLib
+QFP_Sq_127P_Side_M.PcbLib
+QFP_Sq_127P_Side_N.PcbLib
+QFP_Sq_65P_Side_L.PcbLib
+QFP_Sq_65P_Side_M.PcbLib
+QFP_Sq_65P_Side_N.PcbLib
+QFP_Sq_80P_Side_L.PcbLib
+QFP_Sq_80P_Side_M.PcbLib
+QFP_Sq_80P_Side_N.PcbLib
+QFP_Thin_Rect_50P_Side_L.PcbLib
+QFP_Thin_Rect_50P_Side_M.PcbLib
+QFP_Thin_Rect_50P_Side_N.PcbLib
+QFP_Thin_Rect_65P_Side_L.PcbLib
+QFP_Thin_Rect_65P_Side_M.PcbLib
+QFP_Thin_Rect_65P_Side_N.PcbLib
+QFP_Thin_Sq_40P_Side_L.PcbLib
+QFP_Thin_Sq_40P_Side_M.PcbLib
+QFP_Thin_Sq_40P_Side_N.PcbLib
+QFP_Thin_Sq_50P_Side_L.PcbLib
+QFP_Thin_Sq_50P_Side_M.PcbLib
+QFP_Thin_Sq_50P_Side_N.PcbLib
+QFP_Thin_Sq_50P_Side_V.PcbLib
+QFP_Thin_Sq_65P_Side_L.PcbLib
+QFP_Thin_Sq_65P_Side_M.PcbLib
+QFP_Thin_Sq_65P_Side_N.PcbLib
+QFP_Thin_Sq_65P_Side_V.PcbLib
+QFP_Thin_Sq_80P_Side_L.PcbLib
+QFP_Thin_Sq_80P_Side_M.PcbLib
+QFP_Thin_Sq_80P_Side_N.PcbLib
+Quad In-Line Package (QUIP).PcbLib
+Resistor - Axial.PcbLib
+Single In-Line with Mounting Hole.PcbLib
+Single In-Line with no Mounting Hole.PcbLib
+Single-In-Line Package - 5+ Leads.PcbLib
+Small Outline Diode - 2 C-Bend Leads.PcbLib
+Small Outline Diode - 2 Flat Leads.PcbLib
+Small Outline Diode - 2 Gullwing Leads.PcbLib
+Small Outline Diode - 2 Yoke Leads.PcbLib
+Small Outline Diode - 2 Z-Bend Leads.PcbLib
+Small Outline Diode - 3+ Flat Leads.PcbLib
+Small Outline with C-Bend Leads.PcbLib
+Small Outline with J Leads.PcbLib
+SOIC_127P_L.PcbLib
+SOIC_127P_M.PcbLib
+SOIC_127P_N.PcbLib
+SON_127P_V.PcbLib
+SON_40P_L.PcbLib
+SON_40P_M.PcbLib
+SON_40P_N.PcbLib
+SON_40P_V.PcbLib
+SON_50P_L.PcbLib
+SON_50P_M.PcbLib
+SON_50P_N.PcbLib
+SON_50P_V.PcbLib
+SON_65P_L.PcbLib
+SON_65P_M.PcbLib
+SON_65P_N.PcbLib
+SON_65P_V.PcbLib
+SON_80P_V.PcbLib
+SON_95P_V.PcbLib
+SOP_102P_L.PcbLib
+SOP_102P_M.PcbLib
+SOP_102P_N.PcbLib
+SOP_127P_L.PcbLib
+SOP_127P_M.PcbLib
+SOP_127P_N.PcbLib
+SOP_254P_L.PcbLib
+SOP_254P_M.PcbLib
+SOP_254P_N.PcbLib
+SOP_635P_L.PcbLib
+SOP_635P_M.PcbLib
+SOP_635P_N.PcbLib
+SOP_65P_L.PcbLib
+SOP_65P_M.PcbLib
+SOP_65P_N.PcbLib
+SOP_80P_L.PcbLib
+SOP_80P_M.PcbLib
+SOP_80P_N.PcbLib
+SOT - 3 Flat Leads.PcbLib
+SOT 89.PcbLib
+SOT143_L.PcbLib
+SOT143_M.PcbLib
+SOT143_N.PcbLib
+SOT223_L.PcbLib
+SOT223_M.PcbLib
+SOT223_N.PcbLib
+SOT23_5-6Lead_L.PcbLib
+SOT23_5-6Lead_M.PcbLib
+SOT23_5-6Lead_N.PcbLib
+SOT23_L.PcbLib
+SOT23_M.PcbLib
+SOT23_N.PcbLib
+SOT343_L.PcbLib
+SOT343_M.PcbLib
+SOT343_N.PcbLib
+SOT89_L.PcbLib
+SOT89_M.PcbLib
+SOT89_N.PcbLib
+TSOP_65P_L.PcbLib
+TSOP_65P_M.PcbLib
+TSOP_65P_N.PcbLib
+TSSOP_30P_L.PcbLib
+TSSOP_30P_M.PcbLib
+TSSOP_30P_N.PcbLib
+TSSOP_40P_L.PcbLib
+TSSOP_40P_M.PcbLib
+TSSOP_40P_N.PcbLib
+TSSOP_50P_L.PcbLib
+TSSOP_50P_M.PcbLib
+TSSOP_50P_N.PcbLib
+TSSOP_55P_L.PcbLib
+TSSOP_55P_M.PcbLib
+TSSOP_55P_N.PcbLib
+Vertical, Dual-Row, Flange Mount with Tab.PcbLib
+Vertical, Single-Row, Flange Mount with Tab.PcbLib
+Zig-Zag-In-Line Package Odd Lead Number.PcbLib
+Zig-Zag-In-Line Package, Even Lead Number.PcbLib
+Log_290709.txt
